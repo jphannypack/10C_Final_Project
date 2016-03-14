@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>intropic_default.png</file>
+        <file>intropic_kanye.png</file>
+        <file>intropic_taylor.png</file>
+        <file>instruction_screen.png</file>
+        <file>entourage.png</file>
+        <file>kanye_west.png</file>
+        <file>bodyguard.png</file>
+        <file>taylor_swift.png</file>
+        <file>taylor_swiftL.png</file>
+        <file>bodyguardL.png</file>
+        <file>entourageL.png</file>
+        <file>kanye_westL.png</file>
+        <file>stage.png</file>
+        <file>kanye_win.png</file>
+        <file>taylor_win.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>hit.wav</file>
+        <file>click.wav</file>
+        <file>blank_space.mp3</file>
+    </qresource>
+</RCC>
